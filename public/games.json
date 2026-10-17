@@ -1,0 +1,69 @@
+[
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "category": "Sports",
+    "description": "Classic 8-bit American football simulation where you coach your franchise and make game-winning passes.",
+    "instructions": "Mouse drag to aim and throw passes. Arrow keys / WASD to dodge tackles and steer runners.",
+    "iframeUrl": "https://retrobowl.me/",
+    "badge": "Retro 8-Bit",
+    "rating": 5.0,
+    "plays": "1.2M",
+    "featured": true,
+    "tag": "Top Rated"
+  },
+  {
+    "id": "first-down-studio",
+    "title": "First Down Studio",
+    "category": "Sports",
+    "description": "Football and sports gaming portal by First Down Studio.",
+    "instructions": "Use mouse and keyboard controls to play.",
+    "iframeUrl": "https://www.firstdown.studio",
+    "badge": "Sports",
+    "rating": 5.0,
+    "plays": "12.4K",
+    "featured": true,
+    "tag": "Featured Game"
+  },
+  {
+    "id": "poki-games",
+    "title": "Poki Games",
+    "category": "Arcade",
+    "description": "Popular online gaming playground featuring thousands of unblocked web games.",
+    "instructions": "Browse and launch games using mouse and keyboard controls. If framed version is restricted, click 'Launch Window'.",
+    "iframeUrl": "https://poki.to/",
+    "badge": "Arcade",
+    "rating": 4.9,
+    "plays": "450K",
+    "featured": true,
+    "tag": "Unblocked Embed"
+  },
+  {
+    "id": "google-gemini",
+    "title": "Google Gemini",
+    "category": "Strategy",
+    "description": "Interactive AI intelligence and strategic puzzle companion by Google.",
+    "instructions": "Click 'Launch in Dedicated Window' or 'Cloaked Tab' to access Google Gemini without frame restrictions.",
+    "iframeUrl": "https://gemini.google.com/",
+    "launchMode": "window",
+    "badge": "AI Hub",
+    "rating": 5.0,
+    "plays": "890K",
+    "featured": true,
+    "tag": "Window Launch"
+  },
+  {
+    "id": "tiktok-app",
+    "title": "TikTok",
+    "category": "Arcade",
+    "description": "Trending short-form video feeds, viral creators, and multimedia entertainment.",
+    "instructions": "Click 'Launch TikTok' to open directly in a dedicated window or cloaked tab without frame restrictions.",
+    "iframeUrl": "https://www.tiktok.com/",
+    "launchMode": "window",
+    "badge": "Social",
+    "rating": 4.8,
+    "plays": "2.4M",
+    "featured": true,
+    "tag": "Viral Media"
+  }
+]
